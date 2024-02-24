@@ -26,7 +26,6 @@
 <hr>
 <p>How to reach me :<br> email : emailomamar@gmail.com <br>linkedin : https://www.linkedin.com/in/om-amar/</p>
 <hr>
-<h1 class = "Footer"><pre>                              Thank You</pre></h1>
 </body>
 </html>
 
