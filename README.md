@@ -1,21 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.Header,.myaccs,.Footer,.langs{
-    text-align:center;
-}
-.myaccs{
-    color:red;
-    font-weight:bold;
-}
-.rating{
-    font-size:large;
-}
-.cfcolor{
-    color:green;
-}
-</style>
+<link rel="stylesheet" href="Welcome.css">
 </head>
 <body>
 <h1 class="Header">Welcome</h1>
