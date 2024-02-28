@@ -11,7 +11,7 @@
 <div>
 <p>
     1. <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">3 &#9733</span> (1684 Highest) &nbsp;<a href = "https://www.codechef.com/users/bt23cse106">Profile</a>
+    <span class="rating">3 &#9733</span> (1731 Highest) &nbsp;<a href = "https://www.codechef.com/users/bt23cse106">Profile</a>
 </p>
 <p> 2. &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
     <span class="cfcolor">&nbsp; Pupil </span>(1277 Highest) &nbsp;<a href = "https://www.codechef.com/users/bt23cse106">Profile</a>
