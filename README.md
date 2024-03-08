@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1><pre>                              Welcome</pre></h1>
-<p>Nice to Meet Ya , Om here , Doing CP , DSA at the moment</p>
+<p>Hello there , Nice to Meet You , Om here , Doing CP, DSA at the moment and learning Web Dev</p>
 <hr>
 <pre class = "myaccs">                                                           Coding Platforms  </pre>
 <div>
