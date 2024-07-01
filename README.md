@@ -16,6 +16,10 @@
 <p> 2. &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
     <span class="cfcolor">&nbsp; Expert </span>(1655 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
 </p>
+<p>
+    3. &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="50" width="50">
+    <span class="cfcolor">&nbsp; </span>(1820 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+</p>
 </div>
 <hr>
 <h3>Languages and Libraries I Know : </h3>
