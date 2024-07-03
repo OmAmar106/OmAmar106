@@ -17,7 +17,7 @@
     <span class="cfcolor">&nbsp; Expert </span>(1655 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
 </p>
 <p>
-    3. &nbsp;&nbsp;&nbsp;LeetCode : </span>(1820 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+    3. &nbsp;&nbsp;&nbsp;LeetCode : </span>(1830 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
 </p>
 </div>
 <hr>
