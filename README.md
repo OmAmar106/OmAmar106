@@ -11,9 +11,9 @@
 <p> 2. &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
     <span class="cfcolor">&nbsp; Expert </span>(1655 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
 </p>
-    <br>
 <p>
-    3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LeetCode  <span class="cfcolor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knight </span>(1900 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+    3. &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Knight </span>(1900 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
 </p>
 </div>
 <hr>
