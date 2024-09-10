@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Om here</h1>
 <hr>
-<h3 align="center">I Like doing Competetive Programming and Backend Web Development also learning ML at the moment :)</h3>
+<h3 align="center">I Like doing Competetive Programming and Web Development also learning ML at the moment :)</h3>
 <hr>
 <h1 align="center">Coding Platforms</h1>
 <div>
