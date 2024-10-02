@@ -23,6 +23,7 @@
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width = "40" height = "40">&nbsp;&nbsp;<img src = "https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" width = "80" height = "50">&nbsp;&nbsp;<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" width = "50" height = "50">&nbsp;&nbsp;</div>
 <hr>
 <h2 align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=omamar106&layout=compact&theme=vision-friendly-dark"></h2>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OmAmar106" alt=""></p>
 <hr>
 <p>Currently pursuing <br>BTech in CSE from IIIT Nagpur and <br>BSc in Data Science and Application from IIT Madras</p>
 <hr>
@@ -30,7 +31,6 @@
 <pre align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=omamar106&theme=dark&background=000000"></pre>
 <hr>
 <h3 align="center">How to reach me </h3><p><br> email : emailomamar@gmail.com <br>linkedin : https://www.linkedin.com/in/om-amar/</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=OmAmar106" alt=""></p>
 <hr>
 </body>
 </html>
