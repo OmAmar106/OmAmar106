@@ -30,6 +30,7 @@
 <pre align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=omamar106&theme=dark&background=000000"></pre>
 <hr>
 <h3 align="center">How to reach me </h3><p><br> email : emailomamar@gmail.com <br>linkedin : https://www.linkedin.com/in/om-amar/</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OmAmar106" alt=""></p>
 <hr>
 </body>
 </html>
