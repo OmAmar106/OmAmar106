@@ -41,6 +41,9 @@
 <pre align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=omamar106&theme=dark&background=000000"></pre>
 <hr>
 
+[![An image of @omamar106's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omamar106)](https://holopin.io/@omamar106)
+<hr>
+
 <h3 align="center">Socials </h3>
 <br>
   <a href="https://www.linkedin.com/in/om-amar/">
@@ -63,5 +66,4 @@
   </a> &nbsp;&nbsp;
 <hr>
 
-[![An image of @omamar106's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omamar106)](https://holopin.io/@omamar106)
-<hr>
+
