@@ -62,3 +62,6 @@
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle">
   </a> &nbsp;&nbsp;
 <hr>
+
+[![An image of @omamar106's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omamar106)](https://holopin.io/@omamar106)
+<hr>
