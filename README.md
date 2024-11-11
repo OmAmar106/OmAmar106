@@ -10,7 +10,7 @@
     <span class="rating">5 &#9733</span> (2015 Highest) &nbsp;<a href = "https://www.codechef.com/users/bt23cse106">Profile</a>
 </p>
 <p> * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
-    <span class="cfcolor">&nbsp; Expert </span>(1851 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
+    <span class="cfcolor">&nbsp; Expert </span>(1853 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
