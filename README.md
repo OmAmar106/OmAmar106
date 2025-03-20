@@ -58,7 +58,7 @@
   <a href="https://codeforces.com/profile/DeadMan69">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
   </a> &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/bt23cse106">
+  <a href="https://www.codechef.com/users/onedayi6star">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef">
   </a> &nbsp;&nbsp;
   <a href="https://leetcode.com/u/OmAmar/">
