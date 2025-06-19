@@ -18,7 +18,7 @@
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2216 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2356 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
 </p>
 </div>
 
@@ -42,7 +42,7 @@
 
 **Currently pursuing:**
 
-- **B.Tech in Computer Science and Engineering** from IIIT Nagpur  
+- **B.Tech in Computer Science and Engineering** from IIIT Nagpur
 - **B.Sc in Data Science and Applications** from IIT Madras
 
 ---
