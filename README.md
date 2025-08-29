@@ -18,7 +18,7 @@
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2451 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2496 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
 </p>
 </div>
 
