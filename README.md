@@ -8,23 +8,13 @@
 
 <h1 align="center">Coding Platforms</h1>
 
-<div>
-<p>
-    * <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">6 &#9733</span> (2281 Highest) &nbsp;<a href = "https://www.codechef.com/users/onedayi6star">Profile</a>
-</p>
-<p> * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
-    <span class="cfcolor">&nbsp; Candidate Master </span>(2041 Highest) &nbsp;<a href = "https://codeforces.com/profile/DeadMan69">Profile</a>
-</p>
-<p>
-    * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2496 Highest) &nbsp;<a href = "https://leetcode.com/u/OmAmar/">Profile</a>
-</p>
-<p>
-    * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Blue </span>(1685 Highest) &nbsp;<a href = "https://atcoder.jp/users/OmAmar106">Profile</a>
-</p>
-</div>
+* <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; 6 ★ (2281 Highest) <a href="https://www.codechef.com/users/onedayi6star">Profile</a><br>
+
+* <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Candidate Master (2041 Highest) <a href="https://codeforces.com/profile/DeadMan69">Profile</a><br>
+
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Guardian (2530 Highest) <a href="https://leetcode.com/u/OmAmar/">Profile</a><br>
+
+* <img src="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Blue (1757 Highest) <a href="https://atcoder.jp/users/OmAmar106">Profile</a>
 
 ---
 
