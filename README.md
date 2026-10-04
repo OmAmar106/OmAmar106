@@ -14,7 +14,7 @@
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Guardian (2546 Highest) <a href="https://leetcode.com/u/OmAmar/">Profile</a><br>
 
-* <img src="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Blue (1787 Highest) <a href="https://atcoder.jp/users/OmAmar106">Profile</a>
+* <img src="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; Blue (1793 Highest) <a href="https://atcoder.jp/users/OmAmar106">Profile</a>
 
 ---
 
